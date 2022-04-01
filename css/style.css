@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://new.static.tv.nu/43491844?forceFit=1&height=675&width=1200);
+}
+
+nav{
+    padding-left: 20px;
+}
+
+h1{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+
+p{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+a{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
